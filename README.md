@@ -9,4 +9,4 @@ OpenCV深度学习模块的一些案例，以及简单的封装。
 
 ## 3. OpenPose                    效果：待上传
 
-## 4. EAST+Densenet的字符识别      效果：待上传
+## 4. EAST+CRNN的字符识别      效果：待上传
